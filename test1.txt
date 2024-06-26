@@ -1,0 +1,4 @@
+this is a test text file. what i am trying to do is see if i can get this file through python urllib module.
+i will put the link to this file in urllib.request.urlopen() function.
+then i will receive the data in bits format
+i will decode the data and then print it out.
