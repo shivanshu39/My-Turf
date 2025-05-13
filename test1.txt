@@ -2,3 +2,5 @@ this is a test text file. what i am trying to do is see if i can get this file t
 i will put the link to this file in urllib.request.urlopen() function.
 then i will receive the data in bits format
 i will decode the data and then print it out.
+then i forgot what i did and dont remember what happend.
+now im using this for another test. ;D
